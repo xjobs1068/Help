@@ -7,7 +7,7 @@
 
 ## Sketch
 >[sketch component](https://tech.socarcorp.kr/design/2020/07/31/component-01.html) 
->[plugin] (https://handzumade.tistory.com/24)
+>[plugin](https://handzumade.tistory.com/24)
 
 ## UX
 
